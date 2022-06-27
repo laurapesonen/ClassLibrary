@@ -23,6 +23,19 @@ namespace ClassLibrary1
             }
             return resultb;
         }
+
+        public void IsLate(double ETA, double TimeSpent)
+        {
+            if(TimeSpent> ETA)
+            {
+                Console.WriteLine("You are late, Hurry up!");
+
+            }
+            else
+            {
+                Console.WriteLine("Good work. You are on time.");
+            }
+        }
     }
 
                 
