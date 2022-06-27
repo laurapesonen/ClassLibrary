@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Laura\\source\\repos\\ClassLibrary1\\ClassLibrary1\\ClassLibrary1.csproj": {}
+    "C:\\Users\\ilari\\Source\\Repos\\ClassLibrary2\\ClassLibrary1\\ClassLibrary1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Laura\\source\\repos\\ClassLibrary1\\ClassLibrary1\\ClassLibrary1.csproj": {
+    "C:\\Users\\ilari\\Source\\Repos\\ClassLibrary2\\ClassLibrary1\\ClassLibrary1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Laura\\source\\repos\\ClassLibrary1\\ClassLibrary1\\ClassLibrary1.csproj",
+        "projectUniqueName": "C:\\Users\\ilari\\Source\\Repos\\ClassLibrary2\\ClassLibrary1\\ClassLibrary1.csproj",
         "projectName": "ClassLibrary1",
-        "projectPath": "C:\\Users\\Laura\\source\\repos\\ClassLibrary1\\ClassLibrary1\\ClassLibrary1.csproj",
-        "packagesPath": "C:\\Users\\Laura\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Laura\\source\\repos\\ClassLibrary1\\ClassLibrary1\\obj\\",
+        "projectPath": "C:\\Users\\ilari\\Source\\Repos\\ClassLibrary2\\ClassLibrary1\\ClassLibrary1.csproj",
+        "packagesPath": "C:\\Users\\ilari\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ilari\\Source\\Repos\\ClassLibrary2\\ClassLibrary1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Laura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ilari\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
