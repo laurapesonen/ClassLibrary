@@ -5,14 +5,28 @@ namespace ClassLibrary1
 
     
     public class Class1
-
+    {
+        public bool timeCheck(DateTime d1)
         {
-        //public bool timeCheck(DateTime input);
-        DateTime d1 = new DateTime(2022, 06, 30);
 
-        if()
+            DateTime d2 = DateTime.Now;
 
+            int result = DateTime.Compare(d1, d2);
+
+
+            bool resultb = false;
+
+            if (result < 0)
+            {
+                resultb = true;
+
+            }
+            return resultb;
         }
+    }
+
+                
+      
 
     
 }
