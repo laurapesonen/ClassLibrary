@@ -1,0 +1,14 @@
+C:\Users\Laura\source\repos\ClassLibrary1\classTest\bin\Debug\netcoreapp3.1\classTest.exe
+C:\Users\Laura\source\repos\ClassLibrary1\classTest\bin\Debug\netcoreapp3.1\classTest.deps.json
+C:\Users\Laura\source\repos\ClassLibrary1\classTest\bin\Debug\netcoreapp3.1\classTest.runtimeconfig.json
+C:\Users\Laura\source\repos\ClassLibrary1\classTest\bin\Debug\netcoreapp3.1\classTest.runtimeconfig.dev.json
+C:\Users\Laura\source\repos\ClassLibrary1\classTest\bin\Debug\netcoreapp3.1\classTest.dll
+C:\Users\Laura\source\repos\ClassLibrary1\classTest\bin\Debug\netcoreapp3.1\classTest.pdb
+C:\Users\Laura\source\repos\ClassLibrary1\classTest\obj\Debug\netcoreapp3.1\classTest.csproj.AssemblyReference.cache
+C:\Users\Laura\source\repos\ClassLibrary1\classTest\obj\Debug\netcoreapp3.1\classTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laura\source\repos\ClassLibrary1\classTest\obj\Debug\netcoreapp3.1\classTest.AssemblyInfoInputs.cache
+C:\Users\Laura\source\repos\ClassLibrary1\classTest\obj\Debug\netcoreapp3.1\classTest.AssemblyInfo.cs
+C:\Users\Laura\source\repos\ClassLibrary1\classTest\obj\Debug\netcoreapp3.1\classTest.csproj.CoreCompileInputs.cache
+C:\Users\Laura\source\repos\ClassLibrary1\classTest\obj\Debug\netcoreapp3.1\classTest.dll
+C:\Users\Laura\source\repos\ClassLibrary1\classTest\obj\Debug\netcoreapp3.1\classTest.pdb
+C:\Users\Laura\source\repos\ClassLibrary1\classTest\obj\Debug\netcoreapp3.1\classTest.genruntimeconfig.cache
